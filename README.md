@@ -7,3 +7,4 @@
 4. git commit -m 'message commit'
 5. git checkout branch/id_commit
 6. git push
+7. git pull
